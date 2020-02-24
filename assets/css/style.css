@@ -1,0 +1,13 @@
+body {
+  font-size: 1em;
+}
+hgroup {
+  border-bottom: 5px solid #82c026;
+  padding: 50px 0 0;
+}
+
+hgroup h1 {
+  font-size: 1em;
+  font-weight: normal;
+  text-align: center;
+}
