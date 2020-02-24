@@ -11,3 +11,10 @@ hgroup h1 {
   font-weight: normal;
   text-align: center;
 }
+
+.top-line {
+  border-top: 5px solid #82c026;
+}
+.bits {
+  color: #9cc42f;
+}
